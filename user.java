@@ -4,5 +4,5 @@ class{
     int k=30;
     String name="miki";
     String name="abc";
-    add i+j+k; 
+    println("the sum of:",i+j+k); 
 }
